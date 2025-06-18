@@ -1,2 +1,1 @@
-console.log('olá Mundo');
-document.writeln("mudou");
+console.log('sss');
